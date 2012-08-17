@@ -1,0 +1,3 @@
+libipt_TAG.oo: libipt_TAG.c ../include/xtables.h ../include/linux/types.h \
+ ../include/linux/netfilter.h ../include/linux/netfilter/x_tables.h \
+ ../include/linux/kernel.h
